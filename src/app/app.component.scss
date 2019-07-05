@@ -1,0 +1,14 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+}
+
+.radio {
+  display: flex;
+  padding-bottom: 10px;
+  flex-direction: column;
+  .example-margin {
+    padding-bottom: 10px;
+  }
+}
